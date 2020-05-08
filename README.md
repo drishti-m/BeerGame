@@ -54,14 +54,14 @@ These instructions will get you a copy of the project up and running on your loc
 ### Installation
 Clone the repo
 ```sh
-git clone https://github.com/iuliacornea99/se-03-team-29
+git clone https://github.com/ohwhatafool/BeerGame.git
 ```
 
 ### Run the app
 ```sh
 mkdir build
 cd build
-cmake .. -DCMAKE_PREFIX_PATH=$(brew --prefix qt5)
+cmake ..
 make
 ./src/beergame
 ```
@@ -69,7 +69,7 @@ make
 ### Run the tests
 ```sh
 cd build
-cmake .. -DCMAKE_PREFIX_PATH=$(brew --prefix qt5)
+cmake ..
 make
 ./tests/beergame-test
 ```
