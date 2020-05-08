@@ -1,4 +1,3 @@
-# se-05-team-02
 
 ![Built with C++](https://img.shields.io/badge/Built%20with-C%2B%2B-blue)
 [![GitHub release](https://img.shields.io/github/release/Naereen/StrapDown.js.svg)](https://GitHub.com/Naereen/StrapDown.js/releases/)
@@ -12,7 +11,6 @@
     * [Built with](#built-with)
       * [Packages to check test coverage](#packages-to-check-test-coverage)
     * [Submitted by](#submitted-by)
-* [Sprint 5 Accomplishments](#sprint-5-accomplishments)
 * [Getting Started](#getting-started)
     * [Installation](#installation)
     * [Run the app](#run-the-app)
@@ -20,7 +18,6 @@
 * [Current UI Guide](#current-ui-guide)
   * [Screenshot of running game mode](#screenshot-of-running-game-mode)
 * [Contributing](#contributing)
-* [Acknowledgements](#acknowledgements)
 
 ## About the Project
 
@@ -44,26 +41,6 @@ The beer game is an online game intended for students to better understand how s
 
 [**Drishti Maharjan**](https://github.com/ohwhatafool) - d.maharjan@jacobs-university.de <br/>
 [**Ivan Kabadzhov**](https://github.com/ikabadzhov) - i.kabadzhov@jacobs-university.de
-
-## Sprint 5 Accomplishments:
-
-### Improvements in given codebase:
-
-- [X] Fixed existing bugs in GUI, and restructured GUI
-- [X] Re-factored most of back-end code functionality which was previously incomplete/buggy
-- [X] Generated documentation in build folder, and improved documentation
-- [X] Added more testing, increased backend test coverage significantly
-- [X] Removed use of all global variables
-- [X] Added references and detailed README Guide
-
-### New Features Added:
-
-- [X] Implemented client-server (1 server: 4 clients) for TCP socket communication with NoProxy
-- [X] Connected socket with existing frontend and backend (instructor -> server, players -> clients)
-- [X] Instructor customization of game parameters connected with players game parameters
-- [X] Implemented 4-player game mode, with "no duplicate role allowed" feature
-- [X] Added validation check for all input fields in GUI
-- [X] Added interactive buttons to allow start/stop/exit functionality
 
 ## Getting started
 
@@ -187,9 +164,3 @@ While there could be many areas where you could contribute, some of the potentia
 - [ ] Connecting log-in/sign-up features with databases
 - [ ] More customization for the instructor, for e.g., with demand model
 
-## Acknowledgements
-
-1. Course Instructor: Prof. Peter Baumann
-2. Course TAs: Rahul Shrestha, Iulia Cornea
-3. Initial game guidance, IEM Instructor: Prof Stanislav Chankhov
-4. Students who contributed in team 2 for all sprints
