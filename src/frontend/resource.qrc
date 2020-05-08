@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/resources">
+        <file>images/beergame.png</file>
+        <file>images/cover.png</file>
+        <file>images/user.png</file>
+        <file>images/retailer.png</file>
+        <file>images/wholesaler.png</file>
+        <file>images/distributor.png</file>
+        <file>images/factory.png</file>
+    </qresource>
+</RCC>

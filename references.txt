@@ -1,0 +1,49 @@
+{
+	"online-references": [
+		{
+			"Title": "Client server",
+			"Link": "https://www.bogotobogo.com/Qt/Qt5_QTcpServer_Client_Server_Loopback_Example.php"
+			"Description": "Multi thread programming"
+		},
+		{
+			"Title": "CMake Documentation",
+			"Link": "https://cmake.org/documentation/",
+			"Description": "CMake"
+		},
+		{
+			"Title": "GTest Documentation",
+			"Link": "https://github.com/google/googletest/blob/master/googletest/docs/primer.md",
+			"Description": "GTest"
+		},
+		{
+			"Title": "Doxygen Documentation",
+			"Link": "http://www.doxygen.nl/",
+			"Description": "Doxygen"
+		},
+		{
+			"Title": "Setting image in QT widget",
+			"Link": "https://doc.qt.io/qt-5/qtwidgets-widgets-imageviewer-example.html",
+			"Description": "QT"
+		},
+		{
+			"Title": "Doxygen Documentation",
+			"Link": "https://stackoverflow.com/questions/15975262/how-to-specify-image-size-in-html-doxygen",
+			"Description": "Doxygen"
+		}
+	],
+	"contributors": [{
+			"name": "Drishti Maharjan",
+			"sprint": "5",
+			"team": "2",
+			"contribution": "socket implementation, client/server GUI, validity check, main game implementation, testing,referencing"
+		},
+		{
+			"name": "Ivan Kabadzhov",
+			"sprint": "5",
+			"team": "2",
+			"contribution": "socket implementation, implement and improve GUI, refactoring, documentation",
+		}
+	]
+}
+
+
