@@ -39,7 +39,7 @@ The beer game is an online game intended for students to better understand how s
 
 ### Submitted by: 
 
-[**Drishti Maharjan**](https://github.com/ohwhatafool) - d.maharjan@jacobs-university.de <br/>
+[**Drishti Maharjan**](https://github.com/drishti-m) - d.maharjan@jacobs-university.de <br/>
 [**Ivan Kabadzhov**](https://github.com/ikabadzhov) - i.kabadzhov@jacobs-university.de
 
 ## Getting started
